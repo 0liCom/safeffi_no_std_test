@@ -1,0 +1,5 @@
+/target
+.idea
+*.o
+*.a
+.gdb_history
